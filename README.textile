@@ -4,9 +4,10 @@ h1. Yet Another Datepicker
 
 An attempt at writing a flexible, framework free, feature-rich and accessible datepicker.
 
-h2. This version spec changes:
+h2. This version spec changes: (specific to needed project)
 
 * Passes aXe accessibility test
+* Removes support for browsers < IE11
 
 h2. Demo & Documentation
 
